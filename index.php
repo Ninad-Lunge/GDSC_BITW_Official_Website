@@ -16,7 +16,7 @@
 
 
 </head>
-<section id="intro" style="padding-inline: 40px">
+<section id="intro" style="padding-inline: 40px" class="pt-5">
     <body style="background-image: url('img/bg.svg'); background-attachment: fixed;">
         <?php require('inc/header.php');?>
 
@@ -46,7 +46,7 @@
         </div>
 </section>
 
-<section id="nav1"></section>
+<section id="nav1" class="container-fluid p-5"></section>
 
 <!--About us div-->
 <section id="vision" style="padding-inline: 40px">
